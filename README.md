@@ -1,2 +1,5 @@
-# .github
-Das ist ein magisches repo nur fürs README unserer organization
+# Mathe-Café TU Berlin
+
+Willkommen
+
+Wir sind das https://mathe.cafe an der TU Berlin
