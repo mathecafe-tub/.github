@@ -1,5 +1,3 @@
-# Mathe-Café TU Berlin
+# .github
 
-Willkommen
-
-Wir sind das https://mathe.cafe an der TU Berlin
+Das ist ein magisches repo das nur für `/profile/README.md` existiert.
